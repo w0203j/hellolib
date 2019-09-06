@@ -9,5 +9,5 @@ import (
 // SayHello function
 func SayHello(s string) {
 	fmt.Printf("about to rsc.io/quote string %s", s)
-	quote.Opt()
+	fmt.Println(quote.Opt())
 }
