@@ -1,4 +1,4 @@
-package hellolib
+package hellolibpkg
 
 import (
 	"fmt"
